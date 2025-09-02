@@ -6,6 +6,8 @@ Unsupervised pretraining med autoencoder för att extrahera features på transak
 ## Data
 - Dataset: `creditcard.csv` (ladda ner från https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud?resource=download , placera därefter i `data/creditcard.csv`)
 - **Obs:** Stora dataset är exkluderade från repo.
+  Notera: Datasetet är ~150 MB och är därför inte inkluderat i detta repo.
+
 
 ## Env
 ```bash
