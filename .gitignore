@@ -4,3 +4,8 @@ __pycache__/
 *.ipynb_checkpoints
 /data_files/
 *.pptx
+
+# Data
+creditcard.csv
+data/
+
